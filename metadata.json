@@ -1,0 +1,11 @@
+{
+  "name": "AAJM Church",
+  "description": "Official application for AAJM Church featuring member login & registration, Pastor Daniel Nagashetty weekly schedules, notice board, events, booking, fellowship groups with real-time chat, meetings, offerings, and protected Children Mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
